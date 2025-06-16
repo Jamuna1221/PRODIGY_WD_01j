@@ -20,25 +20,25 @@ Built with HTML, CSS, and JavaScript, it features animated backgrounds, smooth n
 - **Icons:** FontAwesome
 - **Hosting:** GitHub Pages
 
-## 📍 Live Demo
+##  Demo
 
 [🔗](https://tinyurl.com/quizzicalminds)
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Made with ❤️ by **Jamuna Rani**  
 Passionate web dev & culture enthusiast
 
 ---
 
-## 📢 License
+##  License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 🏷️ Tags
+## 🏷 Tags
 
 `#TamilCulture` `#InteractiveQuiz` `#FrontendDesign` `#GitHubPages` `#WebDevelopment`
