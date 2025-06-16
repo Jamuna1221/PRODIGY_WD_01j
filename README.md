@@ -22,7 +22,8 @@ Built with HTML, CSS, and JavaScript, it features animated backgrounds, smooth n
 
 ##  Demo
 
-[🔗](https://tinyurl.com/quizzicalminds)
+[🔗 View on linked Pages](https://tinyurl.com/quizzicalminds)
+
 
 ---
 
